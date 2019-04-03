@@ -1,0 +1,8 @@
+.Time{
+   display: inline; 
+   font-size: 25px;
+   padding: .5rem 1rem;
+   border: 3px solid black; 
+   border-radius: 5px; 
+}
+

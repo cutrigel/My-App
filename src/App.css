@@ -1,3 +1,17 @@
 .App {
   text-align: center;
 }
+
+.App-header{
+  margin-top: 5%;
+  margin-bottom: 2.5%;
+  font-size: 3rem;
+}
+
+.Main{
+  margin-top: 5%;
+}
+
+#Slogan{
+  font-size: 50%;
+}

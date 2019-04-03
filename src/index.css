@@ -1,10 +1,9 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Times New Roman";
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto","Arial","sans-serif";
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Roboto","Arial","sans-serif";
 }
