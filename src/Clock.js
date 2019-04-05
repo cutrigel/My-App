@@ -5,7 +5,7 @@ class Clock extends Component{
         super(props);
         this.state = {
             time : new Date().toLocaleTimeString()
-        }       
+        };    
     }
 
     componentDidMount() {
@@ -15,9 +15,13 @@ class Clock extends Component{
         clearInterval(this.interval);
      }
     
-    render(){        
-        return(          
+    render(){
+               
+        return(
+         
+         <div>            
           <p className="Time">{this.state.time}</p>
+        </div>  
         );
     }
 }
